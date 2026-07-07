@@ -1,0 +1,1 @@
+{"identifier":"org.yoshino.footprints","name":"Footprints","description":"Remember deleted instances as stories on your home page","author":"hemekewayoshino","version":"0.1.0","frontend":{"entry":"frontend/index.js"},"minimalLauncherVersion":"0.8.0"}

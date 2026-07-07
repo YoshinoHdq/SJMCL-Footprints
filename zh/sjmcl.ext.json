@@ -1,0 +1,1 @@
+{"identifier":"org.yoshino.footprints.zh","name":"实例纪念碑","description":"在启动器中铭记被删除的实例，如同碑林中的故事","author":"hemekewayoshino","version":"0.1.0","frontend":{"entry":"frontend/index.js"},"minimalLauncherVersion":"0.8.0"}
